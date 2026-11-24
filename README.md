@@ -49,6 +49,7 @@ I'm interested in opportunities involving:
 - Network Support
 - Network Administration
 - IT Infrastructure Support
+- Network Technician
 
 ---
 
